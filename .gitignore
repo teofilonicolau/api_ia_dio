@@ -1,0 +1,9 @@
+# Ignorar credenciais sensíveis
+.env
+
+# Ignorar dependências instaladas
+node_modules/
+
+# Ignorar arquivos de cache do sistema
+*.log
+.DS_Store
